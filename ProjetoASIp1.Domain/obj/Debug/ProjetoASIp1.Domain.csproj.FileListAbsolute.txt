@@ -1,0 +1,18 @@
+D:\FacisaSI\workstudio\ProjetoASIp1\ProjetoASIp1.Domain\bin\Debug\ProjetoASIp1.Domain.dll
+D:\FacisaSI\workstudio\ProjetoASIp1\ProjetoASIp1.Domain\bin\Debug\ProjetoASIp1.Domain.pdb
+D:\FacisaSI\workstudio\ProjetoASIp1\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.csprojResolveAssemblyReference.cache
+D:\FacisaSI\workstudio\ProjetoASIp1\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.dll
+D:\FacisaSI\workstudio\ProjetoASIp1\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.pdb
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1.Domain\bin\Debug\ProjetoASIp1.Domain.dll
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1.Domain\bin\Debug\ProjetoASIp1.Domain.pdb
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.dll
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Domain\bin\Debug\ProjetoASIp1.Domain.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Domain\bin\Debug\ProjetoASIp1.Domain.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Domain\bin\Debug\ProjetoASIp1.Domain.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Domain\bin\Debug\ProjetoASIp1.Domain.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.csprojResolveAssemblyReference.cache
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Domain\obj\Debug\ProjetoASIp1.Domain.pdb

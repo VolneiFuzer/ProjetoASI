@@ -1,0 +1,190 @@
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ApplicationInsights.config
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\csc.exe
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\System.Collections.Immutable.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\vbc.exe
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\VBCSCompiler.exe
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\roslyn\VBCSCompiler.exe.config
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Presentation.dll.config
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Presentation.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Presentation.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Antlr3.Runtime.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\EntityFramework.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\EntityFramework.SqlServer.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.DependencyCollector.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.Web.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.WindowsServer.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.ApplicationInsights.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Google.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Web.Infrastructure.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Newtonsoft.Json.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Ninject.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Ninject.Web.Common.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Ninject.Web.Mvc.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Owin.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Domain.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Infra.Data.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1Aplication.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.Helpers.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.Mvc.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.Optimization.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.Razor.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.WebPages.Deployment.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.WebPages.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.WebPages.Razor.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\WebActivatorEx.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\WebGrease.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Domain.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Infra.Data.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\ProjetoASIp1Aplication.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.DependencyCollector.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.Web.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AI.WindowsServer.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.ApplicationInsights.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Ninject.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Ninject.Web.Common.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Ninject.Web.Mvc.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.Helpers.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.Mvc.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.Optimization.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.Razor.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.WebPages.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.WebPages.Deployment.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\System.Web.WebPages.Razor.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Antlr3.Runtime.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Newtonsoft.Json.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\EntityFramework.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\EntityFramework.SqlServer.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Google.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\obj\Debug\ProjetoASIp1.Presentation.csprojResolveAssemblyReference.cache
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\obj\Debug\ProjetoASIp1.Presentation.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1.Presentation\obj\Debug\ProjetoASIp1.Presentation.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ApplicationInsights.config
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\csc.exe
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\vbc.exe
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Presentation.dll.config
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Presentation.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Presentation.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\EntityFramework.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.Web.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Ninject.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Ninject.Web.Common.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Ninject.Web.Mvc.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Owin.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Domain.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Infra.Data.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1Aplication.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.Helpers.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.Mvc.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.Optimization.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.Razor.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.WebPages.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\WebActivatorEx.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\WebGrease.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Domain.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1.Infra.Data.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\ProjetoASIp1Aplication.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.Web.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Ninject.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Ninject.Web.Common.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Ninject.Web.Mvc.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.Helpers.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.Mvc.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.Optimization.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.Razor.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.WebPages.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\EntityFramework.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\obj\Debug\ProjetoASIp1.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\obj\Debug\ProjetoASIp1.Presentation.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1.Presentation\obj\Debug\ProjetoASIp1.Presentation.pdb

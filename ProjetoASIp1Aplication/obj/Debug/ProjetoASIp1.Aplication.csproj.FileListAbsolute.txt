@@ -1,0 +1,21 @@
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1Aplication.dll
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1Aplication.pdb
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1.Domain.dll
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1.Domain.pdb
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1.Aplication.csprojResolveAssemblyReference.cache
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1Aplication.dll
+D:\FacisaSI\WorkspaceVisualStudio\ProjetoASIp1\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1Aplication.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1Aplication.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1Aplication.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1.Domain.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1.Domain.pdb
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1.Aplication.csprojResolveAssemblyReference.cache
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1Aplication.dll
+D:\RepositorioGIT\WorkspaceVisualStudio\ProjetoASI\ProjetoASIp1\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1Aplication.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1Aplication.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1Aplication.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1.Domain.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1Aplication\bin\Debug\ProjetoASIp1.Domain.pdb
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1.Aplication.csprojResolveAssemblyReference.cache
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1Aplication.dll
+C:\Users\volne\Documents\GIT\Visual Studio\ProjetoASI\ProjetoASIp1Aplication\obj\Debug\ProjetoASIp1Aplication.pdb
